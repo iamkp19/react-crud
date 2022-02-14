@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": [
+        "Kunal"
+      ],
+      "email": "kp@gmail.com",
+      "city": "Bayad",
+      "phone": 122334455
+    },
+    {
+      "id": 2,
+      "name": [
+        "Viral Patel"
+      ],
+      "email": "vp@gmail.com",
+      "city": "Himatnagar",
+      "phone": 112334455
+    },
+    {
+      "id": 3,
+      "name": "Rutvik Gajjar",
+      "email": "rg@gmail.com",
+      "city": "Ahemdabad",
+      "phone": 112234455
+    }
+  ]
+}
